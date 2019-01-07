@@ -1,0 +1,21 @@
+{
+  "name": "engineDataButton",
+  "supportEmail": "",
+  "version": "0.0.1",
+  "items": [{
+    
+    "url": "engineDataButton.html",
+    "path": "",
+    "menuName": {
+      "en": "engineDataButton"
+    },
+    
+    "icon": "images/icon.svg"
+  }],
+  "dev": {
+    "root": "engineDataButton",
+    "dist": {
+      "host": "https://www.example.com/myaddin/"
+    }
+  }
+}
